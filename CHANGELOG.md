@@ -13,3 +13,7 @@
 ## 0.0.4
 
 * Fixed Pubspec.yaml Content
+
+## 0.0.5
+
+* Added Brief Description
