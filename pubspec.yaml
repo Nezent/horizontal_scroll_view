@@ -1,6 +1,6 @@
 name: horizontal_scroll_view
 description: "Simple Horizontal Scroll View Widget"
-version: 0.0.1
+version: 0.0.3
 homepage: https://github.com/Nezent/horizontal_scroll_view
 
 environment:

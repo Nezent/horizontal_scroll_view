@@ -2,7 +2,9 @@
 
 A versatile Flutter package for implementing smooth and customizable horizontal scrolling. Perfect for image carousels, product lists, and more. Enhance your app's user experience with fluid and responsive horizontal scroll views across Android, iOS, macOS, Linux, and Windows.
 
-![Preview example](example/screenshots/scroll_demo.webp)
+<p align="center">
+  <img src="example/screenshots/scroll_demo.webp" alt="Preview Example" height="600">
+</p>
 
 ## Features
 - **Smooth Performance**: Enjoy fluid and responsive horizontal scrolling.
@@ -31,7 +33,7 @@ import 'package:horizontal_scroll_view/horizontal_scroll_view.dart';
 
 ```dart
  HorizontalScrollView(
-   crossAxisCount: 2, // Each Item Width.
+   itemWidth: 153, // Each Item Width.
    crossAxisSpacing: 8.0, // Spacing between items in the same row.
    alignment: CrossAxisAlignment.center, // Alignment of items within the row (default is center)
    children: [
