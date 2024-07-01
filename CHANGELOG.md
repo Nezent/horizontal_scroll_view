@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Fixed Pubspec.yaml Example
+
+## 0.0.4
+
+* Fixed Pubspec.yaml Content

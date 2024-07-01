@@ -18,7 +18,7 @@ Add to pubspec.yaml file
 
 ```yaml
 dependencies:
-  horizontal_scroll_view: ^0.0.1
+  horizontal_scroll_view: ^0.0.4
 ```
 
 import
